@@ -71,7 +71,7 @@ A full MLOps pipeline built on 7,043 customer records — not a notebook, but a 
 - **96-test CI/CD pipeline** with GitHub Actions → Docker Compose deployment
 - 🎯 Target metrics: ROC-AUC ≥ 0.85 · F1 ≥ 0.70
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-churn-prediction-sa.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-churn-retention-system.streamlit.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Swayam-arora-2004/Customer-Churn-Prediction)
 
 ---
@@ -85,7 +85,7 @@ A production-deployed system built for Manav Rachna University's Computer Scienc
 - **JWT authentication**, Supabase (PostgreSQL), bcrypt security, rate limiting
 - Full-stack: Next.js 15 + Express 5 + TypeScript, deployed on Vercel + Render
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mru-cst-dashboard-indol.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mru-cst-dashboard-gamma.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Swayam-arora-2004/mru-cst-dashboard)
 
 ---
@@ -125,7 +125,7 @@ Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Ma
 
 I am open to internships, full-time roles in Data Science / ML Engineering, and graduate programme collaborations.
 
-📧 Reach me on [LinkedIn](https://www.linkedin.com/in/swayamarora) or through my [portfolio](https://swayam-arora-portfolio.vercel.app/).
+📧 Reach me on [LinkedIn](https://www.linkedin.com/in/swayamarora) or through my [portfolio](https://swayam-arora-portfolio.vercel.app).
 
 ---
 
