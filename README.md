@@ -99,15 +99,17 @@ Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Ma
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
-<div align="center">
-
-![Swayam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swayam-arora-2004&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-arora-2004&layout=compact&hide_border=true&theme=default)
-
-</div>
+| Metric | Value |
+|---|---|
+| 🗂 Public Repositories | 16 |
+| 🧪 Tests Written | 96 (Customer Churn project alone) |
+| 📦 Production Deployments | 2 live apps (Streamlit Cloud · Vercel) |
+| 🤖 ML Models Compared | 4 algorithms per project with cross-validation |
+| 📡 API Endpoints Built | 7 (REST) + 13 (University ERP) |
+| 🐳 Containerised Projects | Docker + Docker Compose (multi-service) |
+| 🔁 CI/CD Pipelines | GitHub Actions (lint → test → Docker build) |
 
 ---
 
