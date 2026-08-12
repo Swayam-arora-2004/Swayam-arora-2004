@@ -4,13 +4,13 @@
 
 **Data Scientist · ML Engineer · AI Systems Builder**
 
-*Final-year B.Tech Computer Science student at Manav Rachna University, Faridabad*
+*ML Engineer · B.Tech Computer Science, Manav Rachna University*
 *Building production-grade ML systems that turn raw data into measurable business impact.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swayam-arora-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayamarora)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/swayam_aroraaa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam.arora@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroraswayam0@gmail.com)
 
 </div>
 
@@ -20,9 +20,7 @@
 
 I design and ship end-to-end machine learning systems — from raw dataset ingestion through model selection, explainability, and containerised API deployment. My work sits at the intersection of applied ML and software engineering: I care equally about model performance and production readiness.
 
-Currently focused on **MLOps, LLM applications, and explainable AI**. I am actively seeking opportunities in Data Science, ML Engineering, and AI research — both in industry and in graduate programmes.
-
-> *"Delivered AI systems with 80%+ efficiency gains across 100K+ record datasets."*
+Currently focused on **Transformer-based time-series anomaly detection**, **LLM applications and RAG pipelines**, and **production MLOps systems**.
 
 ---
 
@@ -41,6 +39,12 @@ Currently focused on **MLOps, LLM applications, and explainable AI**. I am activ
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Gemini-412991?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Engineering & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -93,9 +97,22 @@ A production-deployed system built for Manav Rachna University's Computer Scienc
 ## 🎓 Education
 
 **B.Tech — Computer Science & Engineering**
-Manav Rachna University, Faridabad · *2022 – 2026 (Expected)*
+Manav Rachna University, Faridabad · *2022 – 2026*
 
 Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Management Systems, Statistics for Data Science, Software Engineering
+
+---
+
+## 📄 Publication
+
+**Sharma, M., Sharma, S., Arora, S., & Shalu (2025).**
+*Optimising Pharmaceutical Supply Chains: An Intelligent Approach to 
+Sustainable Business Growth.*
+Lecture Notes in Networks and Systems, **Springer**. ICICC-2025, 
+University of Delhi.
+
+🔍 Scopus-indexed &nbsp;|&nbsp; 
+DOI: [10.1007/978-981-96-7134-2_27](https://doi.org/10.1007/978-981-96-7134-2_27)
 
 ---
 
@@ -103,7 +120,7 @@ Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Ma
 
 | Metric | Value |
 |---|---|
-| 🗂 Public Repositories | 16 |
+| 🗂 Public Repositories | 19 |
 | 🧪 Tests Written | 96 (Customer Churn project alone) |
 | 📦 Production Deployments | 2 live apps (Streamlit Cloud · Vercel) |
 | 🤖 ML Models Compared | 4 algorithms per project with cross-validation |
@@ -115,22 +132,20 @@ Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Ma
 
 ## 🔭 Currently Working On
 
-- Exploring **RAG pipelines and LLM fine-tuning** for domain-specific applications
-- Contributing to the open-source ML ecosystem
-- Preparing research-oriented projects aligned with graduate programme applications
+- **Transformer-Based Time-Series Anomaly Detection** — extending Springer 
+  publication (ICICC-2025) from XGBoost into PyTorch Transformer architecture
+- **LLM-Powered Supply Chain Intelligence** — RAG pipeline over pharmaceutical 
+  supply chain domain (LangChain + ChromaDB + XGBoost)
+- **Real-Time Anomaly Detection API** — production REST API with WebSocket 
+  streaming and Grafana monitoring dashboard
+- Active Kaggle competitor — targeting Silver medal by Dec 2026
 
 ---
 
 ## 📬 Let's Connect
 
-I am open to internships, full-time roles in Data Science / ML Engineering, and graduate programme collaborations.
+I am open to full-time roles in ML Engineering and AI research.
 
 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/swayamarora) or through my [portfolio](https://swayam-arora-portfolio.vercel.app).
 
 ---
-
-<div align="center">
-
-*"Turning 100K+ rows of data into decisions that matter."*
-
-</div>
