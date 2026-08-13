@@ -2,7 +2,7 @@
 
 # Swayam Arora
 
-**Data Scientist · ML Engineer · AI Systems Builder**
+**ML Engineer & Researcher · Springer/Scopus Published Author · AI Systems Builder**
 
 *ML Engineer · B.Tech Computer Science, Manav Rachna University*
 *Building production-grade ML systems that turn raw data into measurable business impact.*
